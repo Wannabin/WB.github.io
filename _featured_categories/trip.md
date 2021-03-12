@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 7
 description: >
-  여행 포스팅 카테고리
+  여행 포스팅
 ---
