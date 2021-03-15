@@ -44,7 +44,13 @@ font-weight:bold">
 
 Unity + Vuforia 를 활용하여 아파트 도면을 보고 3D 가상 실물을 눈으로 확인
 
+* **SECS/JAM을 이용한 반도체 공정 설비 통신**
 
+SECS/JAM을 이용한 설비와의 통신 및 설비제어 응용프로그램 개발
+
+* **LS산전 PLC Ethernet 통신 응용프로그램 개발**
+
+소켓통신을 이용하여 LS산전 PLC 프로토콜 구현하여 설비와의 통신 응용프로그램 개발
 
 ## Work Experiences
 ---
@@ -52,7 +58,9 @@ Unity + Vuforia 를 활용하여 아파트 도면을 보고 3D 가상 실물을 
 
 VB, C# 을 이용하여 공장 MES 시스템과 교류하여 응용하는 프로그램 개발
 
+-2019. 07 – 현재 비즈테크파트너스 LG 전자 : LEGACY 시스템 개발 및 관리 
 
+VB, C# 을 이용하여 공장 MES 시스템과 교류하여 응용하는 프로그램 개발
 
 ## Skills and Certification
 ---
